@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=black"  />
-</div>
-
-###
-
 <h1 align="center"><h1> Hello World!! I'm Davi! </h1></h1>
 
 ###
@@ -36,10 +30,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/pacman-output/galaga-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/snake-output/snake.svg" alt="Snake animation" />
 
 ###
