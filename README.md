@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center"> <Hello World!!! I'm Davi /> </h1>
+<h1 align="center"><h1> Hello World!! I'm Davi! </h1></h1>
 
 ###
 
@@ -37,9 +37,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzax/maurodesouzax/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
 ###
